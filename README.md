@@ -15,7 +15,7 @@ This project uses Cassandra, a distributed, non-relational database management s
      4. publisher 
      5. publish_date
      
-** USERS:**
+**USERS:**
 
   The users table contains the followings,
   
